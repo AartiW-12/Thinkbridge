@@ -193,11 +193,16 @@ section, article{
     text-align: justify;
     
 }
-#learn-more a{
+.learn-more{
+    margin: 15px 0;
+}
+.learn-more a{
     margin: 10px;
     padding: 2px;
     color:rgb(66, 72, 192) ;
     text-decoration: none;
+    text-shadow: rgba(0, 0, 0, 0.2);
+    font-weight: bold;
 }
 #skills {
     background-color: white;
